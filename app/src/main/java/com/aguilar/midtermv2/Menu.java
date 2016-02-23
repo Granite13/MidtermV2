@@ -19,7 +19,7 @@ public class Menu extends ListActivity {
 
     //temporary for listActivity
 
-    private static String url = "http://172.17.3.51:5856/api/books/";
+    private static String url = "http://joseniandroid.herokuapp.com/api/books/";
 
     private static final String TAG_ID = "id";
     private static final String TAG_TITLE = "name";
