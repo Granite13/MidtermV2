@@ -33,7 +33,7 @@ public class Menu extends ListActivity {
     // Hashmap for ListView
     ArrayList<HashMap<String, String>> booklist;
 
-
+    // ---- Temp to populate List
     String booklisted[] = {"Name of Book 1","Name of Book 2","Name of Book 3","Name of Book 4"};
 
     @Override
